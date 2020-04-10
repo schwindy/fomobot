@@ -56,7 +56,7 @@ let Options = {
 
 Vue.use(Toasted, Options)
 
-import Card from './Components/Cards/Card.vue';
+import Card from './components/Cards/Card.vue';
 
 //Super
 Vue.use(BootstrapVue)
